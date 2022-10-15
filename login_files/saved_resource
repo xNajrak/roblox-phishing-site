@@ -1,0 +1,2 @@
+/* PLEASE DO NOT COPY AND PASTE THIS CODE. */
+!function(){var t=document.createElement("script");t.setAttribute("ec-api-script", "true");t.type="text/javascript",t.async=!0,t.src="https://roblox-api.arkoselabs.com/cdn/fc/js/446e2362549f58f14b8b64947f4552629f229c19/standard/funcaptcha_api.js";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e)}();

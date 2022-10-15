@@ -1,0 +1,2 @@
+/* ~/CSS/Pages/Widgets/FunCaptchaModal.css */
+.funcaptcha-modal-body{margin:0 auto;display:block;width:303px;}
